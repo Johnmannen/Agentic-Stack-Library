@@ -1,3 +1,0 @@
-# Standard library only for Episode 001 core runtime
-# Optional extras for FastMCP:
-pydantic>=2.0.0
