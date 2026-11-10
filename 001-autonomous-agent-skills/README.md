@@ -71,4 +71,4 @@ Expected Output:
 
 ## 🛠️ Recommended Developer Tools
 
-- **[ElevenLabs AI Voice & Agent SDK](https://try.elevenlabs.io/l7jlmg96e3lb)** — Zero-latency streaming voice & conversational AI SDK for autonomous agent workflows.
+- **[ElevenLabs AI Voice & Agent SDK](https://try.elevenlabs.io/agentic-voice)** — Zero-latency streaming voice & conversational AI SDK for autonomous agent workflows.

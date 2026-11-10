@@ -25,7 +25,7 @@ All source code, architectures, and step-by-step guides from each YouTube episod
 
 Every tool and platform featured on this channel is strictly verified in our remote cloud sandboxes:
 
-- **[ElevenLabs AI Voice & Conversational SDK](https://try.elevenlabs.io/l7jlmg96e3lb)** — Industry-leading neural voice streaming, zero-latency conversational agents, and agent audio SDK.
+- **[ElevenLabs AI Voice & Conversational SDK](https://try.elevenlabs.io/agentic-voice)** — Industry-leading neural voice streaming, zero-latency conversational agents, and agent audio SDK.
 
 ---
 
