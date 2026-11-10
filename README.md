@@ -15,7 +15,7 @@ All source code, architectures, and step-by-step guides from each YouTube episod
 
 | Episode | Title | Tech Stack | Code & Blueprint |
 |:---:|:---|:---|:---:|
-| **#001** | **Build Autonomous AI Agent Skills in Python (Zero Cloud Cost)** | Python 3.10+, FastMCP, Pydantic | [📂 View Episode 001](./episodes/001-autonomous-agent-skills/) |
+| **#001** | **Build Autonomous AI Agent Skills in Python (Zero Cloud Cost)** | Python 3.10+, FastMCP, Pydantic | [📂 View Episode 001](./001-autonomous-agent-skills/) |
 | **#002** | **ElevenLabs Conversational AI Voice Agents** | ElevenLabs SDK, WebSockets, Python | *⚡ In Production* |
 | **#003** | **Production Multi-Agent Supervisors & Memory** | LangGraph, ChromaDB, FastMCP | *⚡ Planned* |
 
@@ -31,7 +31,7 @@ Every tool and platform featured on this channel is strictly verified in our rem
 
 ## ⚡ Quickstart
 
-Clone the repository and jump into any episode:
+Clone the repository and jump into Episode 001:
 
 ```bash
 # Clone the library
@@ -39,7 +39,7 @@ git clone https://github.com/Johnmannen/Agentic-Stack-Library.git
 cd Agentic-Stack-Library
 
 # Navigate to Episode 001
-cd episodes/001-autonomous-agent-skills
+cd 001-autonomous-agent-skills
 
 # Install dependencies and execute
 pip install -r requirements.txt
