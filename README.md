@@ -16,7 +16,7 @@ All source code, architectures, and step-by-step guides from each YouTube episod
 | Episode | Title | Tech Stack | Code & Blueprint |
 |:---:|:---|:---|:---:|
 | **#001** | **Build Autonomous AI Agent Skills in Python (Zero Cloud Cost)** | Python 3.10+, FastMCP, Pydantic | [📂 View Episode 001](./001-autonomous-agent-skills/) |
-| **#002** | **ElevenLabs Conversational AI Voice Agents** | ElevenLabs SDK, WebSockets, Python | *⚡ In Production* |
+| **#002** | **ElevenLabs Real-Time Conversational Voice AI Agents** | ElevenLabs SDK, WebSockets, Python | [📂 View Episode 002](./002-elevenlabs-voice-agent/) |
 | **#003** | **Production Multi-Agent Supervisors & Memory** | LangGraph, ChromaDB, FastMCP | *⚡ Planned* |
 
 ---
