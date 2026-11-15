@@ -17,6 +17,7 @@ All source code, production blueprints, and step-by-step guides from each publis
 |:---:|:---|:---|:---:|:---:|
 | **#001** | **Build Autonomous AI Agent Skills in Python (Zero Cloud Cost)** | Python 3.10+, FastMCP, Pydantic | [📂 View Episode 001 Code](./001-autonomous-agent-skills/) | [▶️ Watch Episode 1](https://www.youtube.com/watch?v=NEoqC7BxBqE) |
 | **#002** | **ElevenLabs Real-Time Conversational Voice AI Agents in Python** | ElevenLabs SDK, WebSockets, Python 3.11 | [📂 View Episode 002 Code](./002-elevenlabs-voice-agent/) | [▶️ Watch Episode 2](https://www.youtube.com/watch?v=3B178ZvPS_s) |
+| **#005** | **Turn Any PDF into Two-Speaker AI Podcasts in Python** | PyMuPDF, ElevenLabs Turbo v2.5, Python 3.11 | [📂 View Episode 005 Code](./005-doc-to-podcast/) | ▶️ Episode 5 |
 
 ---
 
