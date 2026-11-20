@@ -21,6 +21,7 @@ All source code, production blueprints, and step-by-step guides from each publis
 | **#004** | **Build an AI Voice Phone Agent in Python (ElevenLabs + Twilio)** | ElevenLabs Telephony, Twilio Media Streams, FastAPI | [📂 Episode 004 Code](./004-voice-phone-agent/) | [🎁 Telephony Trial](https://try.elevenlabs.io/agentic-telephony) | [▶️ Watch Ep #004](https://www.youtube.com/watch?v=gsiV4-znh04) |
 | **#005** | **Turn Any Text Document into Audio Podcasts in Python (Audio Native)** | PyMuPDF (`fitz`), ElevenLabs Turbo v2.5, Multi-Voice | [📂 Episode 005 Code](./005-doc-to-podcast/) | [🎁 Reader Trial](https://try.elevenlabs.io/agentic-reader) | [▶️ Watch Ep #005](https://www.youtube.com/@AgenticStackB2B) |
 | **#006** | **Build an AI Real-Time Voice Translator in Python (English to Any Language in 500ms)** | ElevenLabs Flash v2.5 (`eleven_flash_v2_5`), 16kHz PCM Stream | [📂 Episode 006 Code](./006-realtime-voice-translator/) | [🎁 Translator Trial](https://try.elevenlabs.io/agentic-translator) | [▶️ Watch Ep #006](https://www.youtube.com/@AgenticStackB2B) |
+| **#007** | **Generate Dynamic AI Game Audio & NPC Voices in Python (Sound Effects API)** | ElevenLabs Sound Effects API, Flash v2.5, Python 3.11 | [📂 Episode 007 Code](./007-dynamic-game-audio-sfx/) | [🎁 SFX & Voice Trial](https://try.elevenlabs.io/agentic-sfx) | [▶️ Watch Ep #007](https://www.youtube.com/@AgenticStackB2B) |
 
 ---
 
@@ -33,7 +34,7 @@ Every platform and SDK featured on the channel is tested in our local and cloud 
 - **📞 [ElevenLabs AI Telephony & Twilio Bridge (Episode #004)](https://try.elevenlabs.io/agentic-telephony)** — Connect low-latency neural voice agents directly to inbound and outbound phone lines via Twilio Media Streams & SIP.
 - **📖 [ElevenLabs Audio Native & Document Reader API (Episode #005)](https://try.elevenlabs.io/agentic-reader)** — Convert 40-page PDF manuals, engineering wikis, and whitepapers into two-speaker podcasts in seconds.
 - **🌍 [ElevenLabs Speech-to-Speech & Flash v2.5 Translator (Episode #006)](https://try.elevenlabs.io/agentic-translator)** — Stream live voice translation from English into any of 32 languages with 75ms model latency (<500ms end-to-end).
-- **🎮 [ElevenLabs Procedural Sound Effects & Game Audio API (Upcoming #007)](https://try.elevenlabs.io/agentic-sfx)** — Generate dynamic game soundscapes, footsteps, ambiences, and NPC dialogue from text prompts in Python.
+- **🎮 [ElevenLabs Procedural Sound Effects & Game Audio API (Episode #007)](https://try.elevenlabs.io/agentic-sfx)** — Generate dynamic game soundscapes, footsteps, ambiences, and NPC dialogue from text prompts in Python.
 - **🚀 [ElevenLabs Flash v2.5 Automated Onboarding & Developer API (Upcoming #008–#010)](https://try.elevenlabs.io/agentic-onboarding)** — Automate personalized customer onboarding walkthroughs, multi-character audiobooks, and Scribe call QA auditing.
 
 ---
@@ -90,6 +91,14 @@ cd 006-realtime-voice-translator
 pip install -r requirements.txt
 export ELEVENLABS_API_KEY="your_api_key_here"
 python run_interpreter.py --text "¡Hola equipo, bienvenidos!" --lang es --out translated_es.mp3
+```
+
+### 🔹 Episode #007: Dynamic AI Game Audio & NPC Voices (Sound Effects API)
+```bash
+cd 007-dynamic-game-audio-sfx
+pip install -r requirements.txt
+export ELEVENLABS_API_KEY="your_api_key_here"
+python run_game_audio.py --sfx-prompt "Heavy sci-fi plasma cannon blast" --npc-line "Alert! Intruder detected in Sector Seven!"
 ```
 
 ---
