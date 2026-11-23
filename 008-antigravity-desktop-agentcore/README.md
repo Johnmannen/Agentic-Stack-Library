@@ -7,6 +7,12 @@
 
 ---
 
+## 📺 Watch Episode #008 on YouTube
+- **Full 29-Minute Walkthrough (16:9):** https://www.youtube.com/watch?v=jU2Ej5Cyl0I
+- **Quick 2-Minute Overview (9:16 Short):** https://youtube.com/shorts/r8ryFxz1A70
+
+---
+
 ## 🚀 Full Source Code & 5-Minute Installer
 
 The complete, actively maintained open-source codebase for Episode #008 lives in its dedicated flagship repository:
